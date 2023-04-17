@@ -7,12 +7,12 @@
 ---
 
 - [HW_1](#hw_1)
-  - [Script](SC1_link)
-  - [Diag_view](DgV1_link)
+  - [Script][SC1_link]
+  - [Diag_view][DgV1_link]
 - [HW_2_3](#hw2_3)
-  - [Script_2_Build](SC2_link)
-  - [Script_3](SC3_link)
-  - [Diag_view](DgV23_link)
+  - [Script_2_Build][SC2_link]
+  - [Script_3][SC3_link]
+  - [Diag_view][DgV23_link]
 
 ---
 
@@ -464,5 +464,4 @@ order by salary.monthly_salary asc;
 [DgV1_link]: </SQL_HW_1/Diag_HW_1.png>
 [SC2_link]: </SQL_HW_2_3/HW2_Build_scheme.sql>
 [SC3_link]: </SQL_HW_2_3/HW_3.sql>
-
 [DgV23_link]: </SQL_HW_2_3/Diag_HW_2_3.png>
