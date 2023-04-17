@@ -37,6 +37,7 @@
   Выполните все команды данные ниже, результат проверить на тестовой базе данных.
   <details>
     <summary>Tasks and queries</summary>
+    
 ```sql
     -- 1. Вывести все поля и все строки.
     select * from students;
@@ -105,11 +106,13 @@
     -- 32. Вывести id пользователя, имя, дату создания пользователя. Отсортировать по порядку убывания даты добавления пользоватлеля.
     select id, name, created_on from students order by created_on desc;
 ```
+
  </details>
     <details>
   <summary>Diagram view</summary>
-  <img title="" src="https://github.com/Foxive/SQL/blob/main/SQL_HW1/Diag_HW_1.png?raw=true" alt="">
+  <img title="" src="https://github.com/Foxive/SQL/blob/main/SQL_HW_1/Diag_HW_1.png?raw=true" alt="">
   </details>
+  
 </details>
 
 ---
